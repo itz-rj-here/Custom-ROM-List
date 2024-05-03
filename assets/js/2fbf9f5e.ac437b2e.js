@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_rom_list=self.webpackChunkcustom_rom_list||[]).push([[1612],{6920:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/Custom-ROM-List/blog/tags/facebook","allTagsPath":"/Custom-ROM-List/blog/tags","count":1,"unlisted":false}')}}]);

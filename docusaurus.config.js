@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} [itz-rj-here](https://github.com/itz-rj-here) | Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} itz-rj-here | Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

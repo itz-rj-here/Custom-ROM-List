@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/itz-rj-here/Custom-ROM-List',
             label: 'GitHub',
             position: 'right',
           },
@@ -102,11 +102,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/',
               },
             ],
           },
@@ -119,12 +119,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/itz-rj-here/Custom-ROM-List',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} [itz-rj-here](https://github.com/itz-rj-here) | Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

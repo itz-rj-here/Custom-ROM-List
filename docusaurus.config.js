@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Custom ROM List',
   tagline: 'On this website, you can see almost all the lists of OS organizations and tons of details about OS modifications.',
-  favicon: 'img/mobile.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://itz-rj-here.github.io/',
@@ -106,10 +106,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/itz-rj-here/Custom-ROM-List',

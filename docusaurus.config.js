@@ -68,13 +68,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Organizations',
           },
           {
-            href: 'https://github.com/itz-rj-here/Custom-ROM-List',
-            //type: 'docSidebar',
-            //sidebarId: 'contribution',
-            label: 'Contribution',
+            href: '/contributions',
+            label: 'Contributions',
             position: 'right',
           },
           {
@@ -91,8 +89,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Organizations',
+                to: '/docs/organizations',
               },
             ],
           },
@@ -101,11 +99,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/',
+                href: 'https://discord.com/invite/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/',
+                label: 'X',
+                href: 'https://x.com/',
               },
             ],
           },
@@ -119,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} itz-rj-here. All Right Reversed.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/itz-rj-here/" target="_blank">It'z RJ</a>. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

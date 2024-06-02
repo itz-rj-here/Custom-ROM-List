@@ -70,7 +70,13 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/itz-rj-here/Custom-ROM-List',
+            //type: 'docSidebar',
+            //sidebarId: 'contribution',
+            label: 'Contribution',
+            position: 'right',
+          },
           {
             href: 'https://github.com/itz-rj-here/Custom-ROM-List',
             label: 'GitHub',
@@ -113,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} itz-rj-here | Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} itz-rj-here. All Right Reversed.`,
       },
       prism: {
         theme: prismThemes.github,

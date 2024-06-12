@@ -1,7 +1,6 @@
 ---
 sidebar_label: Contributions
 title: Contributions
-position: 100
 ---
 
 # Contributions List

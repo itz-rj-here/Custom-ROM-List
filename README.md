@@ -15,10 +15,11 @@
 </div>
 
 ![GitHub branch check runs](https://img.shields.io/github/check-runs/itz-rj-here/Custom-ROM-List/main)
+![GitHub package.json prod dependency version (branch)](https://img.shields.io/github/package-json/dependency-version/itz-rj-here/Custom-ROM-List/%40docusaurus%2Fcore/main)
 ![GitHub License](https://img.shields.io/github/license/itz-rj-here/Custom-ROM-List)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/itz-rj-here/Custom-ROM-List/main)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/itz-rj-here/Custom-ROM-List)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/itz-rj-here/Custom-ROM-List)
 
 # Custom ROM List
 

@@ -7,13 +7,13 @@
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="\static\img\logo.png" alt="Logo" width="80" height="80">
 </a>
-<h3 align="center">ReadME Generator</h3>
-<p align="center">
-An awesome README template to jumpstart your projects!
+<h3 align="center">Custom ROM List</h3>
+<p align="center">On this website, you can see almost all the lists of ROM organizations and tons of details about ROM modifications.<br/>
 <br/>
-<br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/"><strong>Explore the docs »</strong></a>
-<br/>
+<a href="https://itz-rj-here.github.io/Custom-ROM-List/"><strong>Explore the Website »</strong></a><br/>
+</p>
+</div>
+
 # Custom ROM List
 
 Welcome to the **Custom ROM List** by Pixel Development!
@@ -44,19 +44,14 @@ We're a passionate team that began our journey developing innovative plugins for
 3. **Read and Learn**: Browse through the detailed information and tutorials available.
 4. **Join the Community**: Engage with other Android enthusiasts and developers through our forums and discussion boards.
 
-### Contributing
+### License
 
-We welcome contributions from the community! If you have suggestions, improvements, or ROM listings to add, please follow our [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
+Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
 
 ### Support
 
 For any questions, feedback, or issues, please visit our [Discord](https://discord.gg/6gjTNXZ4z4) or open an issue in this repository.
 
-### Stay Connected
-
-- **Website**: [Custom ROM List](https://yourwebsite.com)
-- **Discord**: [@CustomROMList](https://twitter.com/CustomROMHub)
+---
 
 Thank you for being part of our journey from Minecraft plugins to Android customizations. We hope you find our Custom ROM List as exciting and useful as we do!
-
----

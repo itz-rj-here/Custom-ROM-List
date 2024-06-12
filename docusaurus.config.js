@@ -104,11 +104,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/',
+                href: 'https://discord.gg/6gjTNXZ4z4',
               },
             ],
           },
@@ -122,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/itz-rj-here/" target="_blank">It'z RJ</a>. All rights reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/PixelzDevelopment" target="_blank">Pixel Development</a>. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

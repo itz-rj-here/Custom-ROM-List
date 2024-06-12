@@ -1,7 +1,7 @@
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 
 ---
-                         
+
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
@@ -13,6 +13,12 @@
 <a href="https://itz-rj-here.github.io/Custom-ROM-List/"><strong>Explore the Website »</strong></a><br/>
 </p>
 </div>
+
+![GitHub branch check runs](https://img.shields.io/github/check-runs/itz-rj-here/Custom-ROM-List/main)
+![GitHub License](https://img.shields.io/github/license/itz-rj-here/Custom-ROM-List)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/itz-rj-here/Custom-ROM-List/main)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/itz-rj-here/Custom-ROM-List)
+
 
 # Custom ROM List
 

@@ -96,8 +96,8 @@ Contact the main support of the organizations in case you need it.
 
 :::
 
-:::tip[Note]
+:::tip[Tips]
 
-The details were originally taken from [Gemini](https://gemini.google.com/).
+To discover a nice custom rom on the internet, check out the [customrombay.org](https://customrombay.org/), if you'd want to get one for your Android device by Piotr Lange.
 
 :::

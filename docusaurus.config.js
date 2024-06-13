@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Custom ROM List',
   tagline: 'On this website, you can see almost all the lists of OS organizations and tons of details about OS modifications.',
-  favicon: 'img/mobile.ico',
+  favicon: 'img/logo.svg',
 
   // Set the production url of your site here
   url: 'https://itz-rj-here.github.io/',
@@ -47,13 +47,6 @@ const config = {
           editUrl:
             'https://github.com/itz-rj-here/Custom-ROM-List/edit/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/itz-rj-here/Custom-ROM-List/edit/main/',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -75,11 +68,20 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Organizations',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: '/contributions',
+            label: 'Contributions',
+            position: 'right',
+          },
+          {
+            href: '/about',
+            label: 'About Us',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/itz-rj-here/Custom-ROM-List',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,8 +94,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Organizations',
+                to: '/docs/organizations',
               },
             ],
           },
@@ -102,11 +104,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/6gjTNXZ4z4',
               },
             ],
           },
@@ -114,17 +112,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/itz-rj-here/Custom-ROM-List',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/PixelzDevelopment" target="_blank">Pixel Development</a>. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

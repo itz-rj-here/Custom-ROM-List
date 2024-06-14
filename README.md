@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<a href="https://itz-rj-here.github.io/Custom-ROM-List/">
 <img src="\static\img\logo.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Custom ROM List</h3>

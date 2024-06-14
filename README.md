@@ -4,7 +4,6 @@
 
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
 <img src="\static\img\logo.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Custom ROM List</h3>

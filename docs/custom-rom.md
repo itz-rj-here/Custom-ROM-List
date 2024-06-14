@@ -1,5 +1,6 @@
 ---
 sidebar_label: Custom ROM Details
+slug: /details
 sidebar_position: 1
 ---
 
@@ -29,14 +30,14 @@ People use Custom ROMs for a variety of reasons, including:
 
 ## What is Custom ROM Organizations?
 
-Custom ROM organizations are groups of developers who create Custom ROMs, which are modified versions of the Android operating system for smartphones and tablets. These developers are independent from the phone manufacturers.
+Custom ROM Organizations are groups of developers who create Custom ROMs, which are modified versions of the Android operating system for smartphones and tablets. These developers are independent from the phone manufacturers.
 
-Here's what Custom ROM organizations typically do:
+Here's what Custom ROM Organizations typically do:
 
 * **Develop Custom ROMs:**  They take the open-source Android code and modify it to add features, improve performance, or make other changes. 
 * **Provide support:**  They may offer resources and forums to help users install and troubleshoot Custom ROMs.
 
-Some popular Custom ROM organizations include LineageOS, PixelOS, and Paranoid Android.
+Some popular Custom ROM Organizations include LineageOS, PixelOS, and Paranoid Android.
 
 ## Is installing a Custom ROM right for me?
 
@@ -92,7 +93,7 @@ Here are some things you can do to mitigate these risks:
 
 Use the Custom ROM at your own risk. We can't help you with the Custom ROM issues.
 
-Contact the main support of the organizations in case you need it.
+Contact the main support of the Organizations in case you need it.
 
 :::
 

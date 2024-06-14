@@ -1,5 +1,6 @@
 ---
 sidebar_label: Lists of Organizations
+slug: /list
 sidebar_position: 2
 ---
 

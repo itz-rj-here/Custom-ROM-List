@@ -1,5 +1,6 @@
 ---
 sidebar_label: Custom ROM Details
+slug: /organizations/details
 sidebar_position: 1
 ---
 

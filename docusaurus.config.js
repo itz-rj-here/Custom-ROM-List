@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Custom ROM List',
-  tagline: 'On this website, you can see almost all the lists of OS organizations and tons of details about OS modifications.',
+  tagline: 'On this website, you can see almost all the lists of ROM organizations and tons of details about ROM modifications.',
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
